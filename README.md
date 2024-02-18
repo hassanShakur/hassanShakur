@@ -7,6 +7,19 @@ Yeah it's me, Hassan.
 
 <br/>
 
+
+<div align="center">
+<a href="https://github.com/hassanShakur">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hassanShakur&theme=github_dark&show_icons=true" />
+</a>
+<a href="https://github.com/hassanShakur">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanShakur&theme=github_dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&exclude_repo=Node-js&hide=css,scss&card_width=320" />
+</a>
+</div>
+
+<br/>
+<br/>
+
 <div align="center">
 <a href="mailto:dev.hassanshakur@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
@@ -18,17 +31,6 @@ Yeah it's me, Hassan.
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://github.com/hassanShakur">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hassanShakur&theme=github_dark&show_icons=true" />
-</a>
-<a href="https://github.com/hassanShakur">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanShakur&theme=github_dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&exclude_repo=Node-js&hide=css,scss&card_width=320" />
-</a>
 </div>
 
 <br/>
