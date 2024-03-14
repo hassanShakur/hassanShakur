@@ -8,7 +8,6 @@ Yeah it's me, Hassan.
 
 <br/>
 
-
 <div align="center">
 <a href="https://github.com/hassanShakur">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hassanShakur&theme=github_dark&show_icons=true" />
