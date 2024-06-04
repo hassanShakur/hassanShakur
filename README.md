@@ -1,10 +1,10 @@
 Yeah it's me, Hassan.
 
-- 📱 I struggle (but cope) cope with `js` - You just can't trust the language. It's like a box of chocolates... Forget it.
+- 📱 I struggle (but cope) with `js` - You just can't trust the language. It's like a box of chocolates... Never mind.
 - 📜 My `type` would be the other `script`.
 - ⚡ I do a bit of `Go`, `Python`, `Ruby` & `Dart`.
 - ✅ I use tabs. I'm not sorry. It's 2 (or 4) for the price of 1.
-- 📍 Testing me would not be a good idea. But incase you really have to, this would be a good place to start
+- 📍 Testing me would not be a good idea. But in case you really have to, this would be a good place to start
 
 <br/>
 
